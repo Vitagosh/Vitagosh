@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinaysonkusale/)
 
 <!--
 **Vitagosh/Vitagosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
