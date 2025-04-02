@@ -18,6 +18,7 @@ I'm a Master's in Finance student at UC Riverside with a background in Computer 
 - Node.js
 - Express.js
 - Auth0
+- AWS (Lambda, S3, EC2 basics)
 
 ### 🗃️ Databases
 - PostgreSQL
@@ -35,6 +36,7 @@ I'm a Master's in Finance student at UC Riverside with a background in Computer 
 - VS Code
 - Postman
 - Vercel & Netlify
+- AWS CLI & Console
 - Figma (UI Prototyping)
 
 ---
