@@ -2,7 +2,7 @@
 
 I'm a Master's in Finance student at UC Riverside with a background in Computer Science. I build at the intersection of **finance and technology**, creating tools that are data-driven, scalable, and intuitive.
 
-> *"I don't just read markets. I build tools to understand them."*
+> 🧠 *“Markets speak a language of their own — I build tools to translate them.”*
 
 ---
 
@@ -63,15 +63,6 @@ I'm a Master's in Finance student at UC Riverside with a background in Computer 
   <img src="https://img.shields.io/badge/Perplexity%20AI-000000?style=for-the-badge&logo=perplexity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Crunchbase-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Yahoo%20Finance-6001D2?style=for-the-badge&logo=yahoo&logoColor=white"/>
-</p>
-
----
-
-## 📈 📚 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vitagosh&show_icons=true&theme=radical" alt="Vinay's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitagosh&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
