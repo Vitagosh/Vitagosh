@@ -67,6 +67,15 @@ I'm a Master's in Finance student at UC Riverside with a background in Computer 
 
 ---
 
+## 🏅 AWS Academy Certifications
+
+<p align="left">
+  <img src="https://github.com/Vitagosh/errror/blob/master/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f363830783638302f696d616765732f37336534613538622d613865662d343161332d613764622d3931383364643236393838322f696d6167652e706e67.png?raw=true" alt="AWS Cloud Foundations" width="140"/>
+  <img src="https://github.com/Vitagosh/errror/blob/master/aws-academy-graduate-aws-academy-cloud-security-foundations.png?raw=true" alt="AWS Cloud Security Foundations" width="140"/>
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinaysonkusale/)
